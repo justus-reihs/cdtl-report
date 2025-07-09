@@ -9,6 +9,25 @@ project:
     watch-inputs: true
     navigate: true
 authors:
+- id: reihs
+  name:
+    given: Justus Johannes
+    family: Reihs
+    literal: Justus Johannes Reihs
+  email: justus.reihs@studium.uni-hamburg.de
+  attributes:
+    corresponding: true
+  affiliations:
+    - ref: uhh-psych
+- id: kuemmerle
+  name:
+    given: Liese
+    family: Kümmerle
+  email: liese.kuemmerle@studium.uni-hamburg.de
+  attributes:
+    corresponding: false
+  affiliations:
+    - ref: uhh-psych
 - id: wittkuhn
   name:
     given: Lennart
@@ -19,15 +38,6 @@ authors:
   orcid: 0000-0003-2966-6888
   attributes:
     corresponding: true
-  affiliations:
-    - ref: uhh-psych
-- id: pagenstedt
-  name:
-    given: Konrad
-    family: Pagenstedt
-  email: konrad@pagenstedt.de
-  attributes:
-    corresponding: false
   affiliations:
     - ref: uhh-psych
 format:
