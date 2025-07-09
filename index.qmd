@@ -11,7 +11,7 @@ callout-appearance: simple
 
 #### Für welches Projekt fertigen Sie die Dokumentation an?
 
-#17 Versionskontrolle von Code und Daten mit Git und DataLad (Git)
+A Reproducible Paper (Repro)
 
 #### Bitte nennen Sie die am Projekt beteiligten Personen (Nachname, Vorname, ggf. Link zu einem Personenprofil auf der UHH-Webseite): (öffentlich)
 
@@ -19,8 +19,9 @@ callout-appearance: simple
 Hinweis: Hier bitte auch Lehraufträge, Werkverträge und studentische/wissenschaftliche Hilfskräfte angeben.
 :::
 
-- **Projektverantwortliche:r**: Wittkuhn, Dr. Lennart, <https://lennartwittkuhn.com/>
-- **Projektmitglied 1**: Pagenstedt, Konrad
+- **Projektverantwortliche:r (ab April 2025)**: Reihs, Justus Johannes
+- **Projektverantwortliche:r (bis März 2025)**: Wittkuhn, Dr. Lennart, <https://lennartwittkuhn.com/>
+- **Projektmitglied 1**: Kümmerle, Liese
 - **Projektmitglied 2**: Schuck, Prof. Dr. Nicolas, <https://schucklab.gitlab.io/>
 
 #### Bitte geben Sie eine Kontakt-Mailadresse an: (öffentlich)
@@ -29,7 +30,7 @@ Hinweis: Hier bitte auch Lehraufträge, Werkverträge und studentische/wissensch
 Hinweis: Diese wird u.a. bei öffentlichen Darstellungen Ihres Projektes mitveröffentlicht!
 :::
 
-[lennart.wittkuhn@uni-hamburg.de](mailto:lennart.wittkuhn@uni-hamburg.de)
+[justus.reihs@studium.uni-hamburg.de](mailto:justus.reihs@studium.uni-hamburg.de)
 
 #### Sofern Sie ein separates Projektlogo/-foto hinzufügen möchten, können Sie dies hier hochladen: (öffentlich)
 
@@ -43,7 +44,7 @@ Sie können diese Berechtigung jederzeit schriftlich unter ddlitlab.isa@uni-hamb
 
 #### In welchem Semester wurde Ihre Lehrveranstaltung angeboten?
 
-Wintersemester
+Sommersemester 2025
 
 #### Wie viele Studierende hatten die Lehrveranstaltung (in Summe) besucht?
 
@@ -52,7 +53,7 @@ Hinweis: Sofern Ihre Lehrveranstaltung über mehrere Semester angeboten wurde, s
 Dies gilt auch für den Fall, dass in beiden Semestern die gleiche Kohorte an der Veranstaltung teilnahm. Insofern können weitere Berechnungen auf Grundlage dieser Zahlen in der statistischen Auswertung zuverlässig angewendet werden.
 :::
 
-6
+15
 
 #### Machen Sie bitte folgende Angaben zu Ihrer Lehrveranstaltung:
 
