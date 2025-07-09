@@ -61,7 +61,7 @@ Dies gilt auch für den Fall, dass in beiden Semestern die gleiche Kohorte an de
 Hinweis: Beziehen Sie sich auf die Stine-Daten Ihrer Lehrveranstaltung. 
 :::
 
-- **Modul-/Veranstaltungsnummer(n)**: 71-03.802 PsyWB / PsyM14-PsyWB-K02 
+- **Modul-/Veranstaltungsnummer(n)**: 71-03.802 PsyWB / PsyM14-PsyWB-K03 
 - **Veranstaltungsart(en)**: Seminar
 - **Semesterwochenstunden (SWS)**: 2
 
@@ -73,12 +73,12 @@ Hinweis: Beziehen Sie sich auf die Stine-Daten Ihrer Lehrveranstaltung.
 Diese Daten sind aufgrund der Vertretung unterschiedlicher Studierendengruppen in DLE-Lehrveranstaltungen für uns von Interesse und werden ggf. im Rahmen interner Veranstaltungen anonym dargestellt. 
 :::
 
-- **Anzahl Studierende männlichen Geschlechts**: 2
-- **Anzahl Studierende weiblichen Geschlechts **: 4
+- **Anzahl Studierende männlichen Geschlechts**: 3
+- **Anzahl Studierende weiblichen Geschlechts **: 12
 - **Anzahl Studierende diversen Geschlechts**: 0
-- **vertretene Studiengänge**^[vgl. Stine: "Studium", kommagetrennt angeben]: Psychologie (M.Sc.) - WiSe 14/15, Psychologie (Promotion), Psychology (M.Sc.)
+- **vertretene Studiengänge**^[vgl. Stine: "Studium", kommagetrennt angeben]: Psychologie (M.Sc.) - WiSe 14/15, Psychology (M.Sc.)
 - **vertretene Studienfächer**^[vgl. Stine: "Fächer", kommagetrennt angeben]: Psychologie
-- **vertretene Studiensemester**^[vgl. Stine: "Fachsemester", kommagetrennt angeben]: 3, 8, 1, 7, 1, 9
+- **vertretene Studiensemester**^[vgl. Stine: "Fachsemester", kommagetrennt angeben]: 12, 2, 2, 9, 6, 2, 2, 2, 4, 2, 2, 4, 2, 2, 2
 
 #### Wie viele Studierende haben die Veranstaltung (in Summe) erfolgreich abgeschlossen?
 
@@ -90,7 +90,7 @@ Dies gilt auch für den Fall, dass in beiden Semestern die gleiche Kohorte an de
 Insofern können weitere Berechnungen auf Grundlage dieser Zahlen in der statistischen Auswertung zuverlässig angewendet werden.
 :::
 
-6
+N.A.
 
 ## Ressourcenmanagement
 
