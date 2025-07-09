@@ -71,7 +71,7 @@ format:
     code-link: false
     code-annotations: true
     code-tools:
-      source: https://github.com/lnnrtwttkhn/ddlitlab-report
+      source: https://github.com/justus-reihs/cdtl-report
       toggle: true
       caption: "Code"
     highlight-style: monokai
@@ -87,7 +87,7 @@ format:
     # language
     language: en
     # metadata
-    copyright: "Lennart Wittkuhn"
+    copyright: "Justus Reihs"
     license: "CC BY"
     # rendering:
     from: "markdown+emoji"
