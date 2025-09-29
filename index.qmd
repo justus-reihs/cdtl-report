@@ -100,6 +100,11 @@ N.A.
 Bitte kommentieren Sie Ihre Auswahl: Inwiefern war (k)eine besondere Ausstattung erforderlich und welche?
 :::
 
+Für das Projekt war keine besondere Hardware erforderlich, jedoch besondere Software.
+Alle entwickelten Materialien wurden über die Plattform Open Science Framework (<https://osf.io/>) öffentlich geteilt.
+Für die Erstellung der Hauptlernressource, das Repro Book (<https://lennart-wittkuhn.com/repro-book>), wurde die kostenlose open-source Software Quarto (<https://quarto.org/>) verwendet.
+Folien im Rahmen des Seminars wurden mittels PowerPoint erstellt und auf <https://osf.io> geteilt.
+
 <!--
 Für das Projekt war keine besondere Hardware erforderlich, jedoch besondere Software.
 Um effektives kollaboratives Arbeiten an den Lernressourcen zu ermöglichen, wurde das kostenlose open-source Versionskontrollsystem Git (<https://git-scm.com/>) verwendet, das auch Lerninhalt des Projekts war.
@@ -113,6 +118,10 @@ Um das Nutzerverhalten auf den Projektwebsites zu untersuchen, wurde die open-so
 
 #### Konnte der Zeitplan wie geplant umgesetzt werden? Falls nein, welche Abweichungen gab es und warum? Mit welchem Ergebnis?
 
+Ja, der allgemeine Zeitplan des Projekts konnte wie geplant umgesetzt werden.
+Es traten keine relevanten Abweichungen von dem im Antrag angegebenen Zeitplan auf.
+Der Zeitplan des Kurses hingegen wurde im Verlauf des Semesters mehrmals angepasst, um flexibel auf die Lernbedarfe der Studierenden zu reagieren.
+
 <!--
 Ja, der allgemeine Zeitplan des Projekts konnte wie geplant umgesetzt werden.
 Es traten keine relevanten Abweichungen von dem im Antrag angegebenen Zeitplan auf.
@@ -121,6 +130,13 @@ Der Zeitplan des Kurses hingegen wurde im Verlauf des Semesters mehrmals angepas
 -->
 
 #### Konnte der Personaleinsatz wie geplant umgesetzt werden? Falls nein, welche Abweichungen gab es und warum? Mit welchem Ergebnis?
+
+Nein, der Personaleinsatz konnte nicht wie geplant umgesetzt werden.
+Die im Projektantrag festgelegten projektverantwortliche Person verließ Ende März 2025 die Universität Hamburg.
+Die zuvor eingestellte Wissenschaftliche Hilfskraft übernahm daher ab April 2025 die Projektveranwortung.
+Aus verwaltungstechnischen Gründen konnte die Person nicht als Angestellte:r an der Universität Hamburg beschäftigt werden.
+Daher übernahm die Person in selbstständiger Tätigkeit die Projektverantwortung und eine weitere wissenschaftliche Hilfskraft wurde als Ersatz erfolgreich ab Mai eingestellt.
+Ansonsten konnten die ausgeschriebenen Stellen erfolgreich besetzt werden.
 
 <!--
 Ja, der Personaleinsatz konnte wie ursprünglich geplant umgesetzt werden. 
@@ -131,6 +147,9 @@ Insgesamt war der Personaleinsatz im Projekt sinnvoll und adäquat.
 -->
 
 #### Konnte der Sachmitteleinsatz wie geplant umgesetzt werden? Falls nein, welche Abweichungen gab es und warum? Mit welchem Ergebnis?
+
+Ja, die Sachmittel konnten wie geplant umgesetzt werden.
+Da kein Sachmitteleinsatz geplant war, konnte es auch keine Abweichungen geben.
 
 <!--
 Nein, die Sachmittel konnten nicht wie geplant umgesetzt werden.
